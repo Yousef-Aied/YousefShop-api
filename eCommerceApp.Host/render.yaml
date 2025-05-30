@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: ecommerce-api
+    runtime: dotnet
+    buildCommand: dotnet publish -c Release -o out
+    startCommand: dotnet out/eCommerceApp.Host.dll
+    envVars:
+      - key: ConnectionStrings__Default
+        value: Host=shuttle.proxy.rlwy.net;Port=12313;Database=railway;Username=postgres;Password=XXXX
+      - key: Jwt__Key
+        value: YOUR-SECRET-KEY
+      - key: Jwt__Issuer
+        value: https://ecommerce-api.onrender.com
+      - key: Jwt__Audience
+        value: https://ecommerce-api.onrender.com

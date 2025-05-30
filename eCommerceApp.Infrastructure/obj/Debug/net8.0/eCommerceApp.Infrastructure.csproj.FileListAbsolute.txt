@@ -1,0 +1,17 @@
+E:\C#\project_E-commerce\eCommerceAppSolution\eCommerceApp.Infrastructure\bin\Debug\net8.0\eCommerceApp.Infrastructure.deps.json
+E:\C#\project_E-commerce\eCommerceAppSolution\eCommerceApp.Infrastructure\bin\Debug\net8.0\eCommerceApp.Infrastructure.dll
+E:\C#\project_E-commerce\eCommerceAppSolution\eCommerceApp.Infrastructure\bin\Debug\net8.0\eCommerceApp.Infrastructure.pdb
+E:\C#\project_E-commerce\eCommerceAppSolution\eCommerceApp.Infrastructure\bin\Debug\net8.0\eCommerceApp.Application.dll
+E:\C#\project_E-commerce\eCommerceAppSolution\eCommerceApp.Infrastructure\bin\Debug\net8.0\eCommerceApp.Domain.dll
+E:\C#\project_E-commerce\eCommerceAppSolution\eCommerceApp.Infrastructure\bin\Debug\net8.0\eCommerceApp.Application.pdb
+E:\C#\project_E-commerce\eCommerceAppSolution\eCommerceApp.Infrastructure\bin\Debug\net8.0\eCommerceApp.Domain.pdb
+E:\C#\project_E-commerce\eCommerceAppSolution\eCommerceApp.Infrastructure\obj\Debug\net8.0\eCommerceApp.Infrastructure.csproj.AssemblyReference.cache
+E:\C#\project_E-commerce\eCommerceAppSolution\eCommerceApp.Infrastructure\obj\Debug\net8.0\eCommerceApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\project_E-commerce\eCommerceAppSolution\eCommerceApp.Infrastructure\obj\Debug\net8.0\eCommerceApp.Infrastructure.AssemblyInfoInputs.cache
+E:\C#\project_E-commerce\eCommerceAppSolution\eCommerceApp.Infrastructure\obj\Debug\net8.0\eCommerceApp.Infrastructure.AssemblyInfo.cs
+E:\C#\project_E-commerce\eCommerceAppSolution\eCommerceApp.Infrastructure\obj\Debug\net8.0\eCommerceApp.Infrastructure.csproj.CoreCompileInputs.cache
+E:\C#\project_E-commerce\eCommerceAppSolution\eCommerceApp.Infrastructure\obj\Debug\net8.0\eCommerc.83131B78.Up2Date
+E:\C#\project_E-commerce\eCommerceAppSolution\eCommerceApp.Infrastructure\obj\Debug\net8.0\eCommerceApp.Infrastructure.dll
+E:\C#\project_E-commerce\eCommerceAppSolution\eCommerceApp.Infrastructure\obj\Debug\net8.0\refint\eCommerceApp.Infrastructure.dll
+E:\C#\project_E-commerce\eCommerceAppSolution\eCommerceApp.Infrastructure\obj\Debug\net8.0\eCommerceApp.Infrastructure.pdb
+E:\C#\project_E-commerce\eCommerceAppSolution\eCommerceApp.Infrastructure\obj\Debug\net8.0\ref\eCommerceApp.Infrastructure.dll

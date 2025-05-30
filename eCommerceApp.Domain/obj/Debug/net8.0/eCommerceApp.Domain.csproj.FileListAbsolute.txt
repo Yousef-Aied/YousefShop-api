@@ -1,0 +1,12 @@
+E:\C#\project_E-commerce\eCommerceAppSolution\eCommerceApp.Domain\bin\Debug\net8.0\eCommerceApp.Domain.deps.json
+E:\C#\project_E-commerce\eCommerceAppSolution\eCommerceApp.Domain\bin\Debug\net8.0\eCommerceApp.Domain.dll
+E:\C#\project_E-commerce\eCommerceAppSolution\eCommerceApp.Domain\bin\Debug\net8.0\eCommerceApp.Domain.pdb
+E:\C#\project_E-commerce\eCommerceAppSolution\eCommerceApp.Domain\obj\Debug\net8.0\eCommerceApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\project_E-commerce\eCommerceAppSolution\eCommerceApp.Domain\obj\Debug\net8.0\eCommerceApp.Domain.AssemblyInfoInputs.cache
+E:\C#\project_E-commerce\eCommerceAppSolution\eCommerceApp.Domain\obj\Debug\net8.0\eCommerceApp.Domain.AssemblyInfo.cs
+E:\C#\project_E-commerce\eCommerceAppSolution\eCommerceApp.Domain\obj\Debug\net8.0\eCommerceApp.Domain.csproj.CoreCompileInputs.cache
+E:\C#\project_E-commerce\eCommerceAppSolution\eCommerceApp.Domain\obj\Debug\net8.0\eCommerceApp.Domain.dll
+E:\C#\project_E-commerce\eCommerceAppSolution\eCommerceApp.Domain\obj\Debug\net8.0\refint\eCommerceApp.Domain.dll
+E:\C#\project_E-commerce\eCommerceAppSolution\eCommerceApp.Domain\obj\Debug\net8.0\eCommerceApp.Domain.pdb
+E:\C#\project_E-commerce\eCommerceAppSolution\eCommerceApp.Domain\obj\Debug\net8.0\ref\eCommerceApp.Domain.dll
+E:\C#\project_E-commerce\eCommerceAppSolution\eCommerceApp.Domain\obj\Debug\net8.0\eCommerceApp.Domain.csproj.AssemblyReference.cache

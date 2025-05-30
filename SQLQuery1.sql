@@ -1,0 +1,3 @@
+﻿DELETE FROM AspNetUserRoles
+WHERE UserId = 'bf2b178c-bf40-40db-a948-b5c012e68494'
+  AND RoleId = 'e3e881c-d2f3-41e4-b0f9-333333333333';
