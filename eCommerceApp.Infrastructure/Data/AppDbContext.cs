@@ -29,7 +29,7 @@ namespace eCommerceApp.Infrastructure.Data
                 {
                     //Id = Guid.NewGuid(),
                     Id = Guid.Parse("e3e8881c-d2f3-41e4-b0f9-111111111111"),
-                    Name = "Cerdit Card",
+                    Name = "Credit Card",
                 });
 
             builder.Entity<IdentityRole>()

@@ -3,7 +3,7 @@ FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /app
 
 # Copy csproj files and restore as separate layers
-COPY *.sln .
+COPY *.sln .  
 COPY eCommerceApp.Application/*.csproj ./eCommerceApp.Application/
 COPY eCommerceApp.Domain/*.csproj ./eCommerceApp.Domain/
 COPY eCommerceApp.Infrastructure/*.csproj ./eCommerceApp.Infrastructure/
@@ -18,5 +18,10 @@ RUN dotnet publish -c Release -o out
 # Use the official ASP.NET Core runtime image
 FROM mcr.microsoft.com/dotnet/aspnet:8.0
 WORKDIR /app
+
+# ✅ Add this to ensure Railway works on port 8080
+ENV ASPNETCORE_URLS=http://+:8080
+
 COPY --from=build /app/eCommerceApp.Host/out .
+
 ENTRYPOINT ["dotnet", "eCommerceApp.Host.dll"]
