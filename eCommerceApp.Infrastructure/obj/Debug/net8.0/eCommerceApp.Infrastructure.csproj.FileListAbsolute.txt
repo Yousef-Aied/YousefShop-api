@@ -15,3 +15,4 @@ E:\C#\project_E-commerce\eCommerceAppSolution\eCommerceApp.Infrastructure\obj\De
 E:\C#\project_E-commerce\eCommerceAppSolution\eCommerceApp.Infrastructure\obj\Debug\net8.0\refint\eCommerceApp.Infrastructure.dll
 E:\C#\project_E-commerce\eCommerceAppSolution\eCommerceApp.Infrastructure\obj\Debug\net8.0\eCommerceApp.Infrastructure.pdb
 E:\C#\project_E-commerce\eCommerceAppSolution\eCommerceApp.Infrastructure\obj\Debug\net8.0\ref\eCommerceApp.Infrastructure.dll
+E:\C#\project_E-commerce\eCommerceAppSolution\eCommerceApp.Infrastructure\obj\Debug\net8.0\eCommerceApp.Infrastructure.sourcelink.json

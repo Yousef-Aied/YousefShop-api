@@ -13,3 +13,4 @@ E:\C#\project_E-commerce\eCommerceAppSolution\eCommerceApp.Application\obj\Debug
 E:\C#\project_E-commerce\eCommerceAppSolution\eCommerceApp.Application\obj\Debug\net8.0\refint\eCommerceApp.Application.dll
 E:\C#\project_E-commerce\eCommerceAppSolution\eCommerceApp.Application\obj\Debug\net8.0\eCommerceApp.Application.pdb
 E:\C#\project_E-commerce\eCommerceAppSolution\eCommerceApp.Application\obj\Debug\net8.0\ref\eCommerceApp.Application.dll
+E:\C#\project_E-commerce\eCommerceAppSolution\eCommerceApp.Application\obj\Debug\net8.0\eCommerceApp.Application.sourcelink.json

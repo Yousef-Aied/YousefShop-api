@@ -1,5 +1,7 @@
 ﻿using eCommerceApp.Application.DependencyInjection;
+using eCommerceApp.Infrastructure.Data;
 using eCommerceApp.Infrastructure.DependencyInjection;
+using Microsoft.EntityFrameworkCore;
 using Serilog;
 using System.Text.Json.Serialization;
 var builder = WebApplication.CreateBuilder(args);
@@ -39,11 +41,17 @@ try
 {
     var app = builder.Build();
 
+    // ✅ Apply migrations before app.Run()
+    using (var scope = app.Services.CreateScope())
+    {
+        var db = scope.ServiceProvider.GetRequiredService<AppDbContext>();
+        db.Database.Migrate();
+    }
+
     app.UseSerilogRequestLogging();
 
-    app.UseCors("BlazorClientPolicy"); 
+    app.UseCors("BlazorClientPolicy");
 
-   
     if (app.Environment.IsDevelopment())
     {
         app.UseSwagger();
@@ -66,3 +74,5 @@ finally
 {
     Log.CloseAndFlush();
 }
+
+
